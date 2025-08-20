@@ -42,3 +42,8 @@ Used routes:
 - rte 30
 - dark cave
 - rte 31
+- rte 32
+- bellsprout tower
+- violet city
+- union cave
+- rte 33
