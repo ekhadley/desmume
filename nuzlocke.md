@@ -38,12 +38,8 @@ A single, coherent ruleset tuned so an average player has roughly ≤50% odds of
 
 Used routes:
 - rte 29
-- rte 46
 - rte 30
-- dark cave
 - rte 31
+- dark cave
 - rte 32
 - bellsprout tower
-- violet city
-- union cave
-- rte 33
